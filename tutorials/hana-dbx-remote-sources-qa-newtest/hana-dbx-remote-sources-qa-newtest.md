@@ -1,8 +1,8 @@
 ---
 auto_validation: true
 time: 10
-tags: [ tutorial>beginner, products>sap-hana, topic>ABAP Development, topic>big-data, topic>sql, tutorial>community, tutorial>license, products>SAPUI5]
-primary_tag: products>SAP-Business-Technology-Platform
+tags: [ tutorial>beginner, software-product>sap-btp--abap-environment, software-product>sap-business-technology-platform ]
+primary_tag: programming-tool>abap-development
 Open left rail for additional features
  
 parser: v2
