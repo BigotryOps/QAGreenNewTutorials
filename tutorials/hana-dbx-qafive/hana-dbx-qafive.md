@@ -67,11 +67,8 @@ For additional details on SAP HANA Smart Data Access (SDA) and SAP HANA Smart Da
 
     <!-- border --> ![tourist reviews in HANA Cloud](tourist_reviews_in_HC.png)
 
----
-
 [DONE]
 
----
 
 ### Create a remote source from SAP HANA, express edition to SAP HANA Cloud
 
@@ -265,6 +262,7 @@ A benefit of a virtual table is that there is no data movement.  There is only o
     ```
 
     ![results](results.png)
+
 
 8. Add a new review.
 
