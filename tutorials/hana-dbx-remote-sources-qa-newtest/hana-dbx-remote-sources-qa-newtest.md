@@ -3,7 +3,7 @@ auto_validation: true
 time: 10
 tags: [ tutorial>beginner, software-product>sap-btp--abap-environment, software-product>sap-business-technology-platform ]
 primary_tag: programming-tool>abap-development
-contributors: [ Test Test > https://github.com/BigotryOps ]
+contributors: [ Test Test > https://github.com/BigotryOps, IvanovDmytroA > https://github.com/IvanovDmytroA ]
 parser: v2
 keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario, cap/analytics
 
