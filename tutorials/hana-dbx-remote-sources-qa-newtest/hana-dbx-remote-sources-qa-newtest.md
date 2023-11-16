@@ -4,10 +4,12 @@ time: 10
 tags: [ tutorial>beginner, software-product>sap-btp--abap-environment, software-product>sap-business-technology-platform ]
 primary_tag: programming-tool>abap-development
 Open left rail for additional features
- 
+contributors: [ Test Test > https://github.com/BigotryOps ]
 parser: v2
 keywords: cloud, service, SQL, DEVELOPERSTEST, SAP Business Scenario, cap/analytics
+
 ---
+
 #    QA Green parser-v2 test qa-newtest
 <!-- description --> Use 
 
