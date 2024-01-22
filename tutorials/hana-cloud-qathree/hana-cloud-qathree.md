@@ -4,6 +4,7 @@ tags: [ tutorial>beginner, topic>javascript, tutorial>license ]
 primary_tag: topic>user-interface
 time: 15
 contributors: [ Dmytro Ivanov > https://github.com/IvanovDmytroA ] 
+
 ---
 
 # Parallel Processing and Parameters QA six blue
